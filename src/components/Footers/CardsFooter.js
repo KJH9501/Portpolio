@@ -64,9 +64,6 @@ class CardsFooter extends React.Component {
           <Container>
             <Row className="row-grid align-items-center my-md">
               <Col lg="6">
-                <h3 className="text-primary font-weight-light mb-2">
-                  Thank you for supporting us!
-                </h3>
                 <h4 className="mb-0 font-weight-light">
                   Let's get in touch on any of these platforms.
                 </h4>
@@ -136,10 +133,10 @@ class CardsFooter extends React.Component {
                 <div className="copyright">
                   © {new Date().getFullYear()}{" "}
                   <a
-                    href="https://www.creative-tim.com?ref=adsr-footer"
+                    href="https://github.com/KJH9501"
                     target="_blank"
                   >
-                    Creative Tim
+                    KJH
                   </a>
                   .
                 </div>
@@ -148,34 +145,26 @@ class CardsFooter extends React.Component {
                 <Nav className="nav-footer justify-content-end">
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com?ref=adsr-footer"
+                      href="https://open.kakao.com/o/s5pWVc9c"
                       target="_blank"
                     >
-                      Creative Tim
+                      Open Chat
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
+                      href="mailto:skyb_9501@naver.com"
                       target="_blank"
                     >
-                      About Us
+                      E-mail
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="http://blog.creative-tim.com?ref=adsr-footer"
+                      href="tel:01034604887"
                       target="_blank"
                     >
-                      Blog
-                    </NavLink>
-                  </NavItem>
-                  <NavItem>
-                    <NavLink
-                      href="https://github.com/creativetimofficial/argon-design-system-react/blob/master/LICENSE.md"
-                      target="_blank"
-                    >
-                      MIT License
+                      Phone
                     </NavLink>
                   </NavItem>
                 </Nav>

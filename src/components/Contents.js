@@ -13,19 +13,19 @@ class Contents extends Component {
 
                                     <span className="d-block pb-2 mb-0 h6 text-uppercase text-info font-weight-bold">
                                         JS Project
-                                        <Badge pill color="success" className="text-uppercase px-2 py-1 ml-3 mb-1 align-middle" style={{ fontSize: '0.75rem' }}>
-                                            New
-                                        </Badge>
                                     </span>
 
-                                    <span className="d-block pb-4 h2 text-dark border-bottom border-gray">React Project</span>
+                                    <span className="d-block pb-4 h2 text-dark border-bottom border-gray">JavaScript Project</span>
 
                                     <article className="pt-5 text-secondary text-justify" style={{ fontSize: '0.9rem', whiteSpace: 'pre-line' }}>
                                         기본적인 JavaScript를 이용한 문법
                                     </article>
 
                                     <article className="pt-5 text-secondary text-justify" style={{ fontSize: '0.9rem', whiteSpace: 'pre-line' }}>
-                                       
+                                       <h3>코드 일부</h3>
+                                       <p>
+                                           sfgas
+                                       </p>
                                     </article>
 
                                 </div>

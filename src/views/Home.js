@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 
 import Header from 'components/Header';
 import HomeDetail from 'components/HomeDetail';
-import CardsFooter from "components/Footers/CardsFooter.js";
+import CardsFooter from "components/Footers/CardsFooter";
 
 class Home extends React.Component {
     render() {
